@@ -1,4 +1,4 @@
-<p style="font-size:30px">[Yiwei Chai](www.yiweichai.com)</p>
+# [Yiwei Chai](www.yiweichai.com)
 
 <p style="font-size:30px">PhD student at JHU</p>
 
