@@ -1,4 +1,4 @@
-<p style="font-size:30px">**Yiwei Chai**</p>
+**<p style="font-size:30px">Yiwei Chai</p>**
 
 <p style="font-size:30px">PhD student at JHU</p>
 
