@@ -1,6 +1,4 @@
-# [Yiwei Chai](www.yiweichai.com)
-
-<p style="font-size:30px">PhD student at JHU</p>
+## Yiwei Chai
 
 Hello! I’m Yiwei Chai, a PhD student at Johns Hopkins University. I study exoplanets and their systems using a variety of observational methods. I am particularly interested in using comparative studies to place planets into context, and perhaps even tackle population-level questions about the nature of other worlds in our Galaxy.
 
