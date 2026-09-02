@@ -2,7 +2,7 @@
 
 <br>
 
-<b> Comparative --> Population-Level Exoplanet Atmospheres </b>
+<b> Comparative to Population-Level Exoplanet Atmospheres </b>
 
 Hello! I’m Yiwei Chai, a PhD student at Johns Hopkins University. I study exoplanets and their systems using a variety of observational methods. I am interested in using comparative studies to place planets into context, particularly as we move towards tackling population-level questions about the nature of other worlds in our Galaxy.
 
@@ -12,8 +12,8 @@ Previously, I have investigated the dynamical interactions and spectral composit
 
 You can view my CV [here](./yiwei_cv_grad_20260303.pdf) (current as of 3/3/26).
 
-When I'm not doing research, I enjoy reading novels, ice skating, rock climbing, and catering to the whims of my cats, Ozzie and Oolong.
+When I'm not doing research, I enjoy rock climbing, ice skating, reading novels, and catering to the whims of my cats, Ozzie and Oolong.
 
 <br>
 
-This site is a work-in-progress, so stay tuned for further details!
+This site is a work-in-progress, so stay tuned for further details :)
