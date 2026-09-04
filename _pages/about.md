@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I'm Yiwei"
+title: "Hi, I'm Yiwei 🌌"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,23 +10,11 @@ redirect_from:
 I'm a PhD student in astronomy and astrophysics at the Johns Hopkins University in Baltimore, USA. I use space telescopes to study planets in other solar systems. I'm interested in understanding what planets are made of, how they form, and how they change over their lifetimes. To do this, I work with a variety of techniques, from transmission spectroscopy to direct imaging to statistical simulations. I'm always happy to chat about my research, exoplanets and astronomy in general, so feel free to reach out if you have questions.
 
 
-Research Interests
------
-* Large transit surveys 🌌
+<b>Research Interests</b>
+* Large transit surveys 🛰
 * Transmission spectroscopy 🪐
 * High contrast imaging 🌟
-* Atmospheric modelling ☁
-
-
-Education
------
-* PhD in Astronomy and Astrophysics, 2027 (expected)
-  Johns Hopkins University
-* MA in Astronomy and Astrophysics, 2024
-  Johns Hopkins University
-* BA summa cum laude in Physics, 2022
-  University of Pennsylvania
-
+* Atmospheric modelling 🌦
 
 
 
