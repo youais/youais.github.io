@@ -1,11 +1,6 @@
 ---
 title: "Do sub-Neptunes around different types of stars look different?"
-excerpt: "Planets between Earth and Neptune in size are among the most common in our Galaxy, but we don't have one in our own solar system. Understanding what sbu"
-
-<!--
-<br/><img src='/images/500x300.png'>"
--->
-
+excerpt: "Planets between Earth and Neptune in size are among the most common in our Galaxy, but we don't have one in our own solar system. Understanding what sbu" #<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
