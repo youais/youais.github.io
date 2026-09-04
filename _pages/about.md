@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Yiwei [i˥˩ weɪ̯˨˩˦]"
+title: "Hello, I'm Yiwei (i˥˩ weɪ̯˨˩˦)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,10 +11,10 @@ I'm a PhD student in astronomy and astrophysics at the Johns Hopkins University 
 
 
 <b>Research Interests</b>
-* Large transit surveys 🌌
-* Transmission spectroscopy 🪐
-* High contrast imaging 🌟
-* Atmospheric modelling 🌦
+- Large transit surveys 🌌
+- Transmission spectroscopy 🪐
+- High contrast imaging 🌟
+- Atmospheric modelling 🌦
 
 
 
