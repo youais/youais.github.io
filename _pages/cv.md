@@ -9,8 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+<b>Education</b>
+
+<--======
+-->
+
 * Ph.D in Astronomy and Astrophysics, Johns Hopkins University, 2027 (expected)
 * M.S. in Astronomy and Astrophysics, Johns Hopkins University, 2024
 * B.A. in Physics, University of Pennsylvania, 2022
