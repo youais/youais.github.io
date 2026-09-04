@@ -21,8 +21,11 @@ Research Interests
 Education
 -----
 * PhD in Astronomy and Astrophysics, 2027 (expected)
+  Johns Hopkins University
 * MA in Astronomy and Astrophysics, 2024
+  Johns Hopkins University
 * BA summa cum laude in Physics, 2022
+  University of Pennsylvania
 
 
 
