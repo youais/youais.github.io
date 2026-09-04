@@ -202,6 +202,7 @@
     z-index: 100;
   }
 
+  
   .visible-links {
     width: 100%;
     text-align: right;
@@ -222,7 +223,29 @@
         margin-right: 0;
       }
     }
-  }
+    /*
+    display: table;
+
+    li {
+      display: table-cell;
+      vertical-align: middle;
+
+      &:first-child {
+        font-weight: bold;
+        text-wrap: wrap;
+
+        a {
+          margin-left: 0;
+        }
+      }
+
+      &:last-child {
+        a {
+          margin-right: 0;
+        }
+      }
+    }
+    */
 
     #theme-toggle {
       a {
