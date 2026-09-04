@@ -18,7 +18,7 @@ redirect_from:
 * M.A. in Astronomy and Astrophysics, Johns Hopkins University, 2024
 * B.A. in Physics, University of Pennsylvania, 2022
 
-You can view the full version of my CV [here](./yiwei_cv_grad_20260303.pdf) (current as of 3/3/26).
+You can view the full version of my CV [here](https://youais.github.io/yiwei_cv_grad_20260303.pdf) (current as of 3/3/26).
 
 
 <!--
