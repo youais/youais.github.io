@@ -33,12 +33,10 @@ In press.
 The dynamics of young systems can hint at the presence of undetected planets
 -----
 
+I used observations from JWST to investigate the debris disk around the young star eta Telescopii (eta Tel) and its brown dwarf companion, eta Tel B. I found a previously unidentified silicate feature, and used 25 years of observations to study the companion's orbit. Surprisingly, the disk appears largely symmetrical despite the companion's expected gravitational influence. I explored whether an additional, currently undetected planet interior to the debris disk could counteract the perturbations from the outer brown dwarf. Combining constraints from the disk morphology, companion orbit, JWST detection limits, and dynamical stability arguments, I identified a plausible parameter space for an unseen planetary perturber of approximately 0.7-30 Jupiter masses at ~3-19 au. Although this is a hypothesis rather than a detection, it demonstrates how spatially resolved debris disks can act as indirect probes of planetary architectures that are otherwise difficult to observe. 
 
-<!--
-We use observations from the James Webb Space Telescope (JWST) to investigate the debris disk around the young star η Tel A and its brown dwarf companion, η Tel B. We a previously unidentified silicate feature, and used 25 years of observations to study the companion's orbit. Surprisingly, the disk appears largely symmetrical despite the companion’s expected gravitational influence, suggesting that an undetected planet or other object may be shaping the disk. The study highlights how JWST can help reveal the hidden architecture and evolution of young planetary systems.
--->
 
-[Read the paper.](https://iopscience.iop.org/article/10.3847/1538-4357/ad74f4). <!--Read the PDF [here](https://iopscience.iop.org/article/10.3847/1538-4357/ad74f4/pdf).-->
+Read the paper [here](https://iopscience.iop.org/article/10.3847/1538-4357/ad74f4). <!--Read the PDF [here](https://iopscience.iop.org/article/10.3847/1538-4357/ad74f4/pdf).-->
 
 
 <!--
