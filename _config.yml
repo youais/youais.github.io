@@ -23,7 +23,7 @@ repository               : "youais.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.png"
+  avatar           : "profile_pic.jpg"
   name             : "Yiwei Chai"
   pronouns         : # example: "she/her"  
   bio              : "PhD student studying exoplanets<br/>and their systems across our Galaxy"
