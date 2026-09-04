@@ -10,18 +10,19 @@ redirect_from:
 {% include base_path %}
 
 <b>Education</b>
-<!--
-======
--->
-
 * Ph.D in Astronomy and Astrophysics, Johns Hopkins University, 2027 (expected)
 * M.A. in Astronomy and Astrophysics, Johns Hopkins University, 2024
 * B.A. summa cum laude in Physics, University of Pennsylvania, 2022
 
 You can view the full version of my CV [here](https://youais.github.io/yiwei_cv_grad_20260303.pdf) (current as of March 3, 2026).
 
-
 <!--
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
