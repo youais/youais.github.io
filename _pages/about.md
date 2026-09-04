@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Yiwei (i˥˩ weɪ̯˨˩˦)"
+title: "Hello, I'm Yiwei."
 author_profile: true
 redirect_from: 
   - /about/
