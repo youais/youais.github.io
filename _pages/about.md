@@ -10,26 +10,21 @@ redirect_from:
 I'm a PhD student in astronomy and astrophysics at the Johns Hopkins University in Baltimore, USA. I use space telescopes to study planets in other solar systems. I'm interested in understanding what planets are made of, how they form, and how they change over their lifetimes. To do this, I work with a variety of techniques, from transmission spectroscopy to direct imaging to statistical simulations. I'm always happy to chat about my research, exoplanets and astronomy in general, so feel free to reach out if you have questions!
 
 
-<div class="two-column">
-<div>
-
-### Research Interests
+Research Interests
+-----
 * Large transit surveys 🌌
 * Transmission spectroscopy 🪐
 * High contrast imaging 🌟
 * Atmospheric modelling ☁
 
-</div>
 
-<div>
-
-### Education
+Education
+-----
 * PhD in Astronomy and Astrophysics, 2027 (expected)
 * MA in Astronomy and Astrophysics, 2024
 * BA summa cum laude in Physics, 2022
 
-</div>
-</div>
+
 
 
 
