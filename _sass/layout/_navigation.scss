@@ -71,9 +71,8 @@
 
   li {
     display: block;
-    float: right;
-    margin-right: -1px;
-    /*margin-left: -1px;*/
+    float: left;
+    *margin-left: -1px;
 
     a {
       margin-bottom: 0.25em;
@@ -204,27 +203,26 @@
   }
 
   .visible-links {
-    display: table;
+    width: 100%;
+    text-align: right;
 
     li {
-      display: table-cell;
+      display: inline-block;
       vertical-align: middle;
+    }
 
-      &:first-child {
-        font-weight: bold;
-        text-wrap: wrap;
-
-        a {
-          margin-left: 0;
-        }
-      }
-
-      &:last-child {
-        a {
-          margin-right: 0;
-        }
+    li:first-child {
+      a {
+        margin-left: 1rem;
       }
     }
+
+    li:last-child {
+      a {
+        margin-right: 0;
+      }
+    }
+  }
 
     #theme-toggle {
       a {
