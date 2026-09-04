@@ -72,7 +72,7 @@
   li {
     display: block;
     float: left;
-    *margin-left: -1px;
+    margin-left: -1px;
 
     a {
       margin-bottom: 0.25em;
@@ -202,7 +202,6 @@
     z-index: 100;
   }
 
-  
   .visible-links {
     display: table;
 
@@ -225,7 +224,6 @@
         }
       }
     }
-    
 
     #theme-toggle {
       a {
@@ -251,13 +249,13 @@
         transition: $global-transition;
         -webkit-transform: scaleX(0);
             -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide */
+                transform: scaleX(0); /* hide*/
       }
 
       &:hover:before {
         -webkit-transform: scaleX(1);
             -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal */
+                transform: scaleX(1); /* reveal*/
       }
     }
   }
