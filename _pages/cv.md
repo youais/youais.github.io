@@ -17,7 +17,9 @@ Education
 
 You can view the full version of my CV [here](./yiwei_cv_grad_20260303.pdf) (current as of 3/3/26).
 
-{% Work experience
+
+<!--
+Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -64,4 +66,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-%}
+-->
