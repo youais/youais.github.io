@@ -13,7 +13,7 @@ What could we learn from 1000 secondary eclipses with Roman?
 Roman's Galactic Bulge Time Domain Survey could detect the secondary eclipses of 1000 hot Jupiters. This would be the largest ever dataset of its kind. 
 I'm interested in using large simulations to predict how well this dataset could answer open questions about the physics and chemistry of hot Jupiter atmospheres. 
 
-In prep.
+In prep. See my Exoplanets 6 poster [here](https://zenodo.org/records/21651747).
 
 <!--
 <br/><img src='/images/500x300.png'>"
