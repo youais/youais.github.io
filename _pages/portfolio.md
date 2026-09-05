@@ -20,7 +20,8 @@ In prep. See a recent poster on this work [here](https://zenodo.org/records/2165
 <br/><img src='/images/500x300.png'>"
 -->
 
-
+<br/>
+<br/>
 
 ## How are sub-Neptune atmospheres affected by stellar host type?
 
@@ -32,7 +33,8 @@ I used JWST to investigate the atmospheres of two hot sub-Neptunes orbiting a su
 
 In press.
 
-
+<br/>
+<br/>
 
 ## The dynamics of young systems can hint at the presence of undetected planets
 
@@ -45,7 +47,9 @@ I identified a plausible parameter space for an unseen planetary perturber of ap
 it demonstrates how spatially resolved debris disks can act as indirect probes of planetary architectures that are otherwise difficult to observe. 
 
 
-Read the paper [here](https://iopscience.iop.org/article/10.3847/1538-4357/ad74f4). <!--Read the PDF [here](https://iopscience.iop.org/article/10.3847/1538-4357/ad74f4/pdf).-->
+Read the paper [here](https://iopscience.iop.org/article/10.3847/1538-4357/ad74f4). 
+
+<!--Read the PDF [here](https://iopscience.iop.org/article/10.3847/1538-4357/ad74f4/pdf).-->
 
 <!--
 {% for post in site.portfolio %}
