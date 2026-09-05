@@ -3,6 +3,8 @@ layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+redirect_from: 
+  - /portfolio.html
 ---
 
 {% include base_path %}
