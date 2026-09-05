@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Research Highlights"
 permalink: /portfolio/
 author_profile: true
 redirect_from: 
@@ -20,8 +20,6 @@ In prep. See a recent poster on this work [here](https://zenodo.org/records/2165
 <br/><img src='/images/500x300.png'>"
 -->
 
-<br/>
-<br/>
 
 ## How are sub-Neptune atmospheres affected by stellar host type?
 
@@ -33,8 +31,6 @@ I used JWST to investigate the atmospheres of two hot sub-Neptunes orbiting a su
 
 In press.
 
-<br/>
-<br/>
 
 ## The dynamics of young systems can hint at the presence of undetected planets
 
