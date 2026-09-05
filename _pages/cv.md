@@ -14,9 +14,10 @@ redirect_from:
 * M.A. in Astronomy and Astrophysics, Johns Hopkins University, 2024
 * B.A. summa cum laude in Physics, University of Pennsylvania, 2022
 
-You can view the full version of my CV [here](https://youais.github.io/yiwei_cv_grad_20260303.pdf) (current as of March 3, 2026).
+You can view the full version of my CV [here](https://youais.github.io/files/yiwei_cv_grad_20260303.pdf) (current as of March 3, 2026).
 
 <!--
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
