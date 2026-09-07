@@ -29,7 +29,7 @@ Previous observations of sub-Neptunes around cooler M- and K-type stars have hin
 However, very few sub-Neptunes around stars like our sun have been observed --- and the ones that have definitely complicate the picture. 
 I used JWST to investigate the atmospheres of two hot sub-Neptunes orbiting a sun-like star and test whether they follow a temperature-dependent trend.
 
-In press.
+Under review.
 
 
 ## The dynamics of young systems can hint at the presence of undetected planets
