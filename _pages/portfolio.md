@@ -17,11 +17,13 @@ I'm interested in using large simulations to predict how well this dataset could
 In prep. See a recent poster on this work [here](https://zenodo.org/records/21651747).
 
 <!--
-<br/><img src='/images/500x300.png'>"
+<br/><img src='/images/500x300.png'>
 -->
 
 
 ## How are sub-Neptune atmospheres affected by stellar host type?
+
+<br/><img src='/images/subnep_pop.png'>
 
 The Kepler mission revealed that planets between Earth and Neptune in size are among the most common in our Galaxy --- but we don't have one in our own solar system. 
 Uncovering the nature and origin of this mysterious class of planets can help us better understand how planet formation works and place our solar system into context. 
