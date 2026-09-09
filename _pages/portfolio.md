@@ -34,6 +34,8 @@ Under review.
 
 ## The dynamics of young systems can hint at the presence of undetected planets
 
+<br/><img src='/images/laplace.png'>
+
 I used observations from JWST to investigate the debris disk around the young star eta Telescopii (eta Tel) and its brown dwarf companion, eta Tel B. 
 I found a previously unidentified silicate feature, and used 25 years of observations to study the companion's orbit. 
 Surprisingly, the disk appears largely symmetrical despite the companion's expected gravitational influence. 
